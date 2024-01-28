@@ -1,9 +1,0 @@
-POST https://api.openai.com/v1/chat/completions
-Content-Type: application/json
-Authorization: Bearer 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
-
-{
-  "model": "gpt-3.5-turbo-1106",
-  "prompt": "What is macOS?",
-  "temperature": 0.7
-}
